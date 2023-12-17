@@ -35,7 +35,7 @@ section{
 }
 
 a.nav-item {
-	color: #dfdfdf;
+	color: #702fe8;
 }
 
 a.nav-item:hover {
@@ -98,7 +98,7 @@ a.nav-item:hover {
 	}
 
 	.nav-toggle span {
-		background-color: #dfdfdf;
+		background-color: #8103ff;
 	}
 
 	.nav-toggle span:hover {
